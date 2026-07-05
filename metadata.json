@@ -1,0 +1,8 @@
+{
+  "name": "PriceAI Intelligence",
+  "description": "A premium SaaS-style price comparison and screenshot scanner web application powered by Gemini AI, featuring advanced deal discovery, price charts, and best value metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
